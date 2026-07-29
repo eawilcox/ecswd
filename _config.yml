@@ -8,7 +8,7 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://github.com/eawilcox
+url: https://github.com/eawilcox/ecswd
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /ecswd
 # location of code, the full url to your github repository
@@ -30,7 +30,7 @@ keywords: queer; trans; eighteenth century; sex work
 author: eawilcox
 
 ##########
-# COLLECTION SETTINGS
+COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
@@ -50,11 +50,11 @@ metadata: ecswd
 #
 # Enter name and link for your organization (replacing the name and links below)
 # These values will be used in attribution and data 
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
+# organization-name: 
+# organization-link: 
 # Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
-organization-logo-banner: https://www.lib.uidaho.edu/collectionbuilder/cdil-black.png
-organization-logo-nav: https://www.lib.uidaho.edu/collectionbuilder/cdil-white.png
+# organization-logo-banner: https://www.lib.uidaho.edu/collectionbuilder/cdil-black.png
+# organization-logo-nav: https://www.lib.uidaho.edu/collectionbuilder/cdil-white.png
 
 ##########
 # ROBOTS EXCLUDE
