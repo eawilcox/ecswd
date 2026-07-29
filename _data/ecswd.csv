@@ -1,4 +1,4 @@
-object id,parentid,title,creator,date,description
+object id,parentid,title,creator,date,description,display_template,object_location
 object_001,,Emma,,1788,"In the middle of me,
  You plainly may see,
  A thing that will suit every man;
@@ -49,4 +49,4 @@ the world as she ought, she is frequently
 bilked; but this there is no doubt she
 will soon get the better off, particularly
 if she follows the precepts and advice of
-the old lady she lives with."
+the old lady she lives with.",image,https://alchetron.com/Harris's-List-of-Covent-Garden-Ladies#harriss-list-of-covent-garden-ladies-cba03467-a137-4501-8eed-e96e33f5b4f-resize-750.jpg
