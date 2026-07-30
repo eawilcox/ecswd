@@ -1,9 +1,9 @@
-objectid,parentid,title,creator,date,description,display_template,object_location,image_small,image_thumb
-object001,,Emma,,1788,"<div class=""beauty"">In the middle of me,<br>
+objectid,parentid,title,creator,date,description,subject,display_template,object_location,image_small,image_thumb
+object001,,Emma,,1788,"In the middle of me,<br>
  A thing that will suit every man;<br>
  And when you are in it,<br>
  The critical minute,<br>
- Ensure as fast as you can.<br></div>
+ Ensure as fast as you can.<br>
 
 A young tit of Mother Gr--y's own
 procuring, and that our reader should
@@ -48,6 +48,10 @@ the world as she ought, she is frequently
 bilked; but this there is no doubt she
 will soon get the better off, particularly
 if she follows the precepts and advice of
-the old lady she lives with.",,,,
-object002,object001,Emma,,,,,,,
-object003,,An Evening Invitation,Carrington Bowles,,,image,/objects/object003.jpg,/objects/object003.jpg,/objects/objects003.jpg
+the old lady she lives with.",,,,,
+object002,object001,Emma,,,"In the middle of me,<br>
+ A thing that will suit every man;<br>
+ And when you are in it,<br>
+ The critical minute,<br>
+ Ensure as fast as you can.<br>",genitalia,,,,
+object003,,An Evening Invitation,Carrington Bowles,,,,image,/objects/object003.jpg,/objects/object003.jpg,/objects/objects003.jpg
