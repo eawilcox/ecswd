@@ -1,5 +1,5 @@
-objectid,parentid,title,creator,date,description,subject,display_template,object_location,image_small,image_thumb,relation
-object001,,Emma,,1788,"In the middle of me,<br>
+objectid,parentid,title,creator,date,description,transcription,subject,display_template,object_location,image_small,image_thumb,relation
+object001,,Emma,,1788,"","In the middle of me,<br>
  A thing that will suit every man;<br>
  And when you are in it,<br>
  The critical minute,<br>
@@ -53,9 +53,9 @@ object002,object001,Emma,,,"In the middle of me,<br>
  A thing that will suit every man;<br>
  And when you are in it,<br>
  The critical minute,<br>
- Ensure as fast as you can.<br>",genitalia;,,,,,
-object003,,An Evening Invitation,Carrington Bowles,,,,image,/objects/object003.jpg,/objects/object003.jpg,/objects/objects003.jpg,
-object004,,Mrs. Mary H---n,,"August 28, 1691","MRS. Mary H---n, a tall, graceful, comely Woman, indebted for<br> two thirds of her beauty to Washes and the Patch-box; she<br> mightily frequents the Rassling-shops, very shy of allowing her Favours;<br> but the present of Silver Furniture for her Chamber may mollifie her, which<br> will cost you but -----   ",,image,/objects/object004.jpg,/objects/object004.jpg
-object005,,Mrs. Eliz. H---n,,"August 28, 1691","Mrs. Eliz. H---n, her Sister, as well by Iniquity as by birth; the very <br> Ape of Female Quality, both as to her Dress and Carriage; she is very in-<br> different as to the matter of money, but a Supper of two Guineas may tempt <br> her to be kind.-----"
-object006,,Mrs. Eliza. B---w,,"August 28, 1691","Mrs. Eliz. B---w, a very fine Woman, who has been a Dealer <br> in Cullies every since she was fifteent; modest and pleasant enough, till after the <br> third bottle, but then Messalina herself was not half so impudent; she has se-<br>veral prizes for her Ware, but her usualy price is-----"
-object007,,Mrs. Di--- P---r,,,"Mrs. Di--- P---r, a very fair Woman, and loves none but<br>those of her own Complexion, has a srt of Sparks who buz about her, like <br> Flies about a Honey-pot; whoever engages her to a Glass of Wine, must reckon<br> himself fortunate if he comes off for-----"
+ Ensure as fast as you can.<br>",,genitalia;,,,,,
+object003,,An Evening Invitation,Carrington Bowles,,,,,image,/objects/object003.jpg,/objects/object003.jpg,/objects/objects003.jpg,
+object004,,Mrs. Mary H---n,,"1691-08-28","","MRS. Mary H---n, a tall, graceful, comely Woman, indebted for<br> two thirds of her beauty to Washes and the Patch-box; she<br> mightily frequents the Rassling-shops, very shy of allowing her Favours;<br> but the present of Silver Furniture for her Chamber may mollifie her, which<br> will cost you but -----   ",,image,/objects/object004.jpg,/objects/object004.jpg
+object005,,Mrs. Eliz. H---n,,"1691-08-28","","Mrs. Eliz. H---n, her Sister, as well by Iniquity as by birth; the very <br> Ape of Female Quality, both as to her Dress and Carriage; she is very in-<br> different as to the matter of money, but a Supper of two Guineas may tempt <br> her to be kind.-----"
+object006,,Mrs. Eliza. B---w,,"1691-08-28","","Mrs. Eliz. B---w, a very fine Woman, who has been a Dealer <br> in Cullies every since she was fifteent; modest and pleasant enough, till after the <br> third bottle, but then Messalina herself was not half so impudent; she has se-<br>veral prizes for her Ware, but her usualy price is-----"
+object007,,Mrs. Di--- P---r,,1691-08-28,"","Mrs. Di--- P---r, a very fair Woman, and loves none but<br>those of her own Complexion, has a srt of Sparks who buz about her, like <br> Flies about a Honey-pot; whoever engages her to a Glass of Wine, must reckon<br> himself fortunate if he comes off for-----"
